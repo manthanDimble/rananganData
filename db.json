@@ -1,0 +1,4013 @@
+{
+  "24dec": [
+    {
+      "groupName": "3131",
+      "morning": true,
+      "noon": true,
+      "night": true,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": true,
+      "noon": true,
+      "night": true,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": true,
+      "noon": true,
+      "night": true,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": true,
+      "noon": true,
+      "night": true,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": true,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": true,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": true,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": true,
+      "noon": true,
+      "night": true,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "25dec": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "26dec": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "27dec": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "28dec": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "29dec": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "30dec": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "31dec": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "1jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "2jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "3jan": [
+    {
+      "groupName": "3131",
+      "morning": true,
+      "noon": true,
+      "night": true,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "4jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "5jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "6jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "7jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "8jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "9jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "10jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "11jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "12jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ],
+  "13jan": [
+    {
+      "groupName": "3131",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 1
+    },
+    {
+      "groupName": "President",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 2
+    },
+    {
+      "groupName": "Secretary",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 3
+    },
+    {
+      "groupName": "VP",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 4
+    },
+    {
+      "groupName": "Treasurer",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 5
+    },
+    {
+      "groupName": "SAA",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 6
+    },
+    {
+      "groupName": "CSD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "groupName": "CMD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "ISD",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "groupName": "PDD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 11,
+      "groupName": "WR",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "groupName": "PRO",
+      "morning": false,
+      "noon": false,
+      "night": false,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "groupName": "Editor",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 14,
+      "groupName": "RRRO",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 15,
+      "groupName": "AD",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 16,
+      "groupName": "WRWC",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 17,
+      "groupName": "Council",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 18,
+      "groupName": "Sports",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 19,
+      "groupName": "Zone 1",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 20,
+      "groupName": "Zone 2",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 21,
+      "groupName": "Zone 3",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 22,
+      "groupName": "Zone 4",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 23,
+      "groupName": "Zone 5",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 24,
+      "groupName": "Zone 6",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 25,
+      "groupName": "Zone 7",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 26,
+      "groupName": "Zone 8",
+      "morning": false,
+      "noon": false,
+      "night": false
+    },
+    {
+      "id": 27,
+      "groupName": "Zone 9",
+      "morning": false,
+      "noon": false,
+      "night": false
+    }
+  ]
+}
